@@ -25,22 +25,16 @@ neighborhood (deeper Brooklyn?).
 
 2)  Speak with the nearest attendant
 
-3)  Find the owner, manager, or person with enough context to answer our
-    > questions
+3)  Find the owner, manager, or person with enough context to answer our questions
 
-4)  Establish a time at their best convenience to ask a few questions,
-    > what’s best for them?
+4)  Establish a time at their best convenience to ask a few questions, what’s best for them?
 
     a.  If no best time can we offer a monetary incentive?
 
-5)  Ask questions, stick to the unknown priority items first as we may
-    > not be able to attain all the information for a single vendor.
+5)  Ask questions, stick to the unknown priority items first as we may not be able to attain all the information for a single vendor.
 
-6)  Build a rapport with the vendor and make them know you care for
-    > their businesses well-being. We’re gathering information to make
-    > their lives easier.
+6)  Build a rapport with the vendor and make them know you care for their businesses well-being. We’re gathering information to make their lives easier.
 
-7)  Try to get their email or phone number, ask if they’d be willing to
-    > speak with you again in the future.
+7)  Try to get their email or phone number, ask if they’d be willing to speak with you again in the future.
 
 8)  Add their contact information and notes to this aggregate doc.
