@@ -8,8 +8,7 @@ seasonality/historical data. JDA - is big. Walmart recently started
 using a “just in time ARS”. Most cost \$\$! Can we give this away for
 free? Dead simple integration is key. Integrate with existing POS.
 
-Is the market saturated? With crap yes, need to offer something more
-2015.
+Is the market saturated? Yes, but with high tech expensive solutions, need to offer something in a lower price point or easier to integrate with no POS.
 
 Compete with Amazon? Decentralized stores act as WH’s, they keep backlog
 of inventory which we can move around freely to where it’s needed.
@@ -67,7 +66,7 @@ background.
 Option 1: Foot in the door: Get analytics, make predictions offer it to
 retailers. ex. There’s a marathon next week, go to local coffee shops
 and tell them they should stock up on gatorade as they will be able to
-sell it (or buy it from us the day before the event?). Afterwards we can
+sell it (or buy it from us the day before the event?). Afterward we can
 offer a full platform once we have trust.
 
 Option 2: Convince some stores to let us tell them what to sell, or let
@@ -78,7 +77,7 @@ Option 3: Pay \$\$ for retail store’s data which we can then use to make
 these analysis. Is some of this already available online for free?
 
 **[*Option
-4*](https://docs.google.com/document/d/1_9sXVEtDfaWJ_Tca2C3QPzpT3CxixuhDRES_18TjObg/edit):
+4*](https://github.com/cgil/inventory_management/blob/master/Strategy_Deep_Dive_Option_4.md):
 Offer to make a marketplace for free, if they give us inventory,
 allowing for automated delivery & online presence. We can then offer
 recommendations based on sales.**
